@@ -43,8 +43,8 @@ ngx_http_cas_ssl_auth_module requires the following to run:
 Direction
 ------------
 
-* cas_request: enable cas authentication        
-Syntax:     cas_request url       
+* cas_ssl_auth_uri: enable cas authentication        
+Syntax:     cas_ssl_auth_uri url       
 Default:    -         
 Context:    server|location         
 
