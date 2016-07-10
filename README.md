@@ -1,6 +1,6 @@
 [CAS]: https://github.com/cas-x/cas-server
 # ngx_http_cas_ssl_auth_module
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/detailyang/cas-nginx_http_ssl_auth_module.svg)](https://travis-ci.org/detailyang/cas-nginx_http_ssl_auth_module)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/cas-nginx_http_ssl_auth_module/master/LICENSE)[![release](https://img.shields.io/github/release/detailyang/cas-nginx_http_ssl_auth_module.svg)](https://github.com/detailyang/cas-nginx_http_ssl_auth_module/releases)
+![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/cas-x/cas-nginx_http_ssl_auth_module.svg)](https://travis-ci.org/cas-x/cas-nginx_http_ssl_auth_module)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cas-x/cas-nginx_http_ssl_auth_module/master/LICENSE)[![release](https://img.shields.io/github/release/cas-x/cas-nginx_http_ssl_auth_module.svg)](https://github.com/cas-x/cas-nginx_http_ssl_auth_module/releases)
 
 A component for nginx module integrated with [CAS]
 
